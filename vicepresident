@@ -13,7 +13,8 @@
             <th>Nama</th>
             <th>NIK</th>
         </tr>
-        
+        <td>jalu</td>
+        <td>123</td>
         <tr>
             <td>teguh</td>
             <td>127</td>
